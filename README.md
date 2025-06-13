@@ -1,14 +1,22 @@
 <h1 align="center">Hi 👋, I'm Lalit Joshi</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | AI Integrations | UI Enthusiast</h3>
 
+---
+
+### 🌐 Connect with Me
+
 <p align="center">
-  <a href="https://github.com/joshilalit7433">
-    <img src="https://img.shields.io/github/followers/joshilalit7433?label=GitHub&style=social" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/lalit-joshi-73ba50255/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/lalit-joshi-73ba50255/">
-    <img src="https://img.shields.io/badge/-Lalit%20Joshi-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:Joshilalit7433@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/LalitJo61223019" target="_blank">
+    <img src="https://img.shields.io/badge/-X-black?style=flat-square&logo=twitter&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
