@@ -17,7 +17,6 @@
   </a>
 </p>
 
-
 ---
 
 ### 👨‍💻 About Me
@@ -31,19 +30,23 @@
 ---
 
 ### 🛠️ Tech Stack
-**Frontend:**  
+
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat-square)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat-square)
-
-**Backend:**  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat-square)
 ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)
-
-**Tools:**  
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff&style=flat-square)
+![Socket.IO](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=fff&style=flat-square)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=fff&style=flat-square)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=fff&style=flat-square)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=fff&style=flat-square)
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=000&style=flat-square)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat-square)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square)
